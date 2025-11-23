@@ -1,0 +1,83 @@
+{
+  "name": "ev-theme",
+  "displayName": "Ev",
+  "publisher": "monoooki",
+  "version": "1.0.0",
+  "description": "Multi-evolution inspired collection for VS Code: Normal base plus Dark/Electric/Fire/Water/Grass/Ice/Fairy/Psychic in one bundle.",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#F5EBD8",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "ev",
+    "evolution",
+    "theme pack",
+    "light theme"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/monoooki/vscode-ev-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monoooki/vscode-ev-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/monoooki/vscode-ev-theme/issues"
+  },
+  "qna": false,
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ev Normal",
+        "uiTheme": "vs",
+        "path": "./themes/ev-normal-color-theme.json"
+      },
+      {
+        "label": "Ev Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ev-dark-color-theme.json"
+      },
+      {
+        "label": "Ev Electric",
+        "uiTheme": "vs",
+        "path": "./themes/ev-electric-color-theme.json"
+      },
+      {
+        "label": "Ev Fire",
+        "uiTheme": "vs",
+        "path": "./themes/ev-fire-color-theme.json"
+      },
+      {
+        "label": "Ev Water",
+        "uiTheme": "vs",
+        "path": "./themes/ev-water-color-theme.json"
+      },
+      {
+        "label": "Ev Grass",
+        "uiTheme": "vs",
+        "path": "./themes/ev-grass-color-theme.json"
+      },
+      {
+        "label": "Ev Ice",
+        "uiTheme": "vs",
+        "path": "./themes/ev-ice-color-theme.json"
+      },
+      {
+        "label": "Ev Fairy",
+        "uiTheme": "vs",
+        "path": "./themes/ev-fairy-color-theme.json"
+      },
+      {
+        "label": "Ev Psychic",
+        "uiTheme": "vs",
+        "path": "./themes/ev-psychic-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.0.5
+
+- Updated the extension icon.
+
+## 1.0.4
+
+- Repacked and republished to include the theme JSON files in the VSIX.
+
+## 1.0.3
+
+- Retuned UI colors across all variants (Normal/Dark/Electric/Fire/Water/Grass/Ice/Fairy/Psychic) for better balance and readability.
+- Refined neutral UI surfaces (line numbers, selections, sidebars, lists, borders, shadows, scrollbars) to feel more cohesive.
+- Expanded and adjusted color tokens to improve coverage across UI elements.
+- Light variants: Added a subtle code block background and softened disabled text for clearer hierarchy.
+
 ## 1.0.2
 
 - Ev (light variants): Toolbar / action bar hover & pressed states now use neutral 20% black overlays to avoid washed-out buttons and keep icon/text colors stable.

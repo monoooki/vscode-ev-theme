@@ -2,8 +2,8 @@
   "name": "ev-theme",
   "displayName": "Ev",
   "publisher": "monoooki",
-  "version": "1.0.2",
-  "description": "Multi-evolution inspired collection for VS Code: Normal base plus Dark/Electric/Fire/Water/Grass/Ice/Fairy/Psychic in one bundle.",
+  "version": "1.0.5",
+  "description": "Multi-evolution theme bundle: Normal plus Dark, Electric, Fire, Water, Grass, Ice, Fairy, Psychic.",
   "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#F5EBD8",
